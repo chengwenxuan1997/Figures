@@ -7,6 +7,7 @@ An improved version of [SWNE](https://yanwu2014.github.io/swne/). More details c
 
 ### 1.1 Purposes
 1: Run Geneset Enrichment Analysis (GSEA) on the gene loadings for each factor to find the top genesets associated with that factor after the SWNE embedding is calculated. This function is present in the SWNE article but not included in the SWNE R package.  
+    **Correction: The function is also included in the SWNE packages, just not present in the tutorial.**  
 2: Take a try to choose the root node via an entropy-based method in the trajectory analysis because both monocle2 and monocle3 can not automatically provide a root node. The idea was inspired by [StemID](https://doi.org/10.1016/j.stem.2016.05.010).  
 
 
