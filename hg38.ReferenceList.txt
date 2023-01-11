@@ -1,0 +1,7 @@
+Name	Filename
+1000G_loci	1000G_loci_hg38
+imputation	imputation
+beagle5	beagle5
+probloci	probloci
+GC_correction	GC_correction_hg38
+RT_correction	RT_correction_hg38

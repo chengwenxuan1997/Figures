@@ -1,0 +1,8 @@
+Name	Filename
+1000G_loci	battenberg_1000genomesloci2012_v3
+imputation	battenberg_impute_1000G_v3
+probloci	probloci_270415.txt.gz
+GC_correction	battenberg_wgs_gc_correction_1000g_v3
+RT_correction	battenberg_wgs_replic_correction_1000g_v3
+snp.exe	battenberg_snp6_exe
+snp.ref	battenberg_snp6_ref
